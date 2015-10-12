@@ -1,0 +1,109 @@
+.page{
+	width:1020px;
+	height: 1320px;
+	margin-right:60px;
+	margin-left:60px;
+	margin-top:100px;
+	margin-bottom:60px;
+	font-family: 'Slabo 27px', serif;
+	font-size: 125%;
+}
+.head1.br{
+	display:block;
+	margin:10px;
+
+}
+
+.headLineOne{
+	font-size: 115%;
+}
+.headLineTwo{
+	font-size:100%;
+}
+
+.head1{
+	border-style:solid;
+	border-width:1px;
+	text-align:center;
+	padding:1px;
+}
+
+.subHead{
+	text-align: center;
+}
+
+.sectionOne_referral_head{
+	text-align: center;
+}
+.sectionOne_referral_subHead{
+	text-align: center;
+}
+
+.bi_head{
+	text-align: center;
+}
+.ddobi_head{
+	text-align: center;
+}
+.ddobi_subHead{
+	text-align: center;
+}
+.doiatatbptrod_head{
+	text-align: center;
+}
+.sectionOne_table{
+	width:100%;
+	border-style:solid;
+	border-width:1px;
+	height:25%: 
+}
+.complete{
+	text-align: center;
+	margin-right: 5%;
+	margin-left:5%;
+}
+
+.doiatatbptrod_subHead{
+	text-align: center;
+margin-right: 5%;
+	margin-left:5%;}
+
+td{
+	width:20%;
+}
+
+
+
+.bi_table{
+	border-style:solid;
+	border-width:1px;
+
+}
+
+
+table,td, tr{
+	border:1px solid black;
+	border-collapse:collapse;
+	height:10%;
+}
+textarea{
+	border:0px;
+	width:95%
+}
+
+table,td,tr{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+
+.ddobi_table{
+	border-style:solid;
+	border-width:1px;
+	height: 12%;
+}
+
+.doiatatbptrod_table{
+	border-style:solid;
+	border-width:1px;
+	height: 12%;
+}
